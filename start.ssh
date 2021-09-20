@@ -1,0 +1,2 @@
+mprof run -T 0.00001 shell_sort.py 
+mprof plot
